@@ -1,0 +1,6 @@
+introducer: 172.22.154.105
+port: 5008
+gossip_interval: 200
+suspect_time: 2000
+fail_time: 4000
+remove_time: 2000

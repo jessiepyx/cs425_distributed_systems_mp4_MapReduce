@@ -1,0 +1,4 @@
+port: 5009
+file_path: "./server/"
+app_path: "./application/"
+input_file: "input"
